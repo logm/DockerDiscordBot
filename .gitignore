@@ -1,0 +1,11 @@
+code/discord/
+code/discord.py/
+code/log/
+code/log/message.log
+code/log/login.log
+code/log/login.log
+code/log/message.log
+code/log/roles
+logoutput
+.vscode/settings.json
+code/__pycache__/

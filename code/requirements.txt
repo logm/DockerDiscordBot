@@ -1,0 +1,5 @@
+discord.py
+aiohttp
+websockets<7.0,>=6.0
+pytz
+tinydb
